@@ -1,3 +1,5 @@
+# Python doesnt use var, const, let to declare variables
+
 a = 5
 a = 10.1
 a = a + a
